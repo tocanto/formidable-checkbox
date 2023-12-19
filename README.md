@@ -23,4 +23,5 @@ FUNCIONALIDADES CLAVE
 - Se utiliza JavaScript puro para añadir la lógica de selección al formulario, mejorando la interacción del usuario y garantizando que se cumplan las reglas de selección establecidas.
 
 USO
+
 Este script es ideal para formularios de encuestas o cuestionarios donde es necesario limitar las selecciones de los usuarios para obtener datos más precisos y relevantes. Es especialmente útil en escenarios donde las preguntas están diseñadas para evaluar preferencias o características con opciones mutuamente excluyentes.
