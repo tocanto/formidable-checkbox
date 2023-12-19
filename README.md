@@ -6,7 +6,7 @@ FUNCIONALIDADES CLAVE
 
 - En cada pregunta del formulario, el usuario puede seleccionar entre dos opciones: "Más como yo" y "Menos como yo".
 - Una vez seleccionada una opción en una pregunta, la otra opción se deshabilita automáticamente, evitando que el usuario seleccione ambas opciones en la misma pregunta.
-- 
+  
 2. Límite Global de Selecciones:
 
 - El script impone un límite global en el número de veces que se pueden seleccionar las opciones "Más como yo" y "Menos como yo" en todo el formulario.
